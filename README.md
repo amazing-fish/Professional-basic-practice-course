@@ -5,9 +5,7 @@
 
 # 要干啥
 
-![实践作业](C:\Users\Lenovo\Desktop\实践作业.jpg)
-
-
+![实践作业](E:\Project\GitHub\amazing-fish\Professional-basic-practice-course\实践作业.jpg)
 
 # 干了啥
 
