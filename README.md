@@ -5,7 +5,7 @@
 
 # 要干啥
 
-![实践作业](E:\Project\GitHub\amazing-fish\Professional-basic-practice-course\实践作业.jpg)
+![](https://raw.githubusercontent.com/amazing-fish/Professional-basic-practice-course/main/%E5%AE%9E%E8%B7%B5%E4%BD%9C%E4%B8%9A.jpg)
 
 # 干了啥
 
